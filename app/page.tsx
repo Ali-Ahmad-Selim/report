@@ -7,7 +7,7 @@
 import React from 'react'
 import { QRCodeCanvas } from "qrcode.react";
 const page = () => {
-   const link = "https://chughtai-ruddy.vercel.app/checkmate.pdf"; 
+   const link = "https://report-eight-omega.vercel.app/checkmate.pdf"; 
   return (
    <div className="h-screen w-screen bg-white flex justify-center items-center">
   <a href={link} target="_blank" rel="noopener noreferrer">
